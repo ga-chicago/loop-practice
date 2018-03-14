@@ -1,6 +1,5 @@
 # loop-practice
 
-##Loop Js
 
 
 ### Use a `for in` loop to loop through the following objects and print to the console,
