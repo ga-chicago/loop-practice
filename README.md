@@ -5,11 +5,11 @@
 ### Use a `for in` loop to loop through the following objects and print to the console,
 the name of each property.
 
-6.  `var colorObjects = {red: 'red', blue: 'blue', cyan: 'cyan'}`
+1.  `const colorObjects = {red: 'red', blue: 'blue', cyan: 'cyan'}`
 
-7.  `var seinfeld    = {cosmo: "kramer", jerry: "Seinfeld", george: "constanza", elaine: "bennis"}`
+2.  `const seinfeld    = {cosmo: "kramer", jerry: "Seinfeld", george: "constanza", elaine: "bennis"}`
 
-8.  `var profile       = {name: "Elon Musk", occupation: "space man", hobbies: ["paypal", "space X", "rocket science"]}`
+3.  `const profile       = {name: "Elon Musk", occupation: "space man", hobbies: ["paypal", "space X", "rocket science"]}`
 
 
 
